@@ -19,7 +19,7 @@ const CONTENT = {
   experience: [
     {
       role: "Data Analyst Intern",
-      org: "State Street, Alpha Data Services",
+      org: "State Street",
       location: "Clifton, NJ",
       dates: "Jun 2026 – Aug 2026",
       points: [
