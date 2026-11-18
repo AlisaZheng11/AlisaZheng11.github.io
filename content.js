@@ -12,7 +12,7 @@ const CONTENT = {
   links: {
     email: "sz3410@columbia.edu",
     linkedin: "https://www.linkedin.com/in/alisazheng",
-    github: "",          // TODO: add your GitHub URL
+    github: "https://github.com/AlisaZheng11",          // TODO: add your GitHub URL
     resume: "resume.pdf" // drop your resume PDF into this folder with this name
   },
 
